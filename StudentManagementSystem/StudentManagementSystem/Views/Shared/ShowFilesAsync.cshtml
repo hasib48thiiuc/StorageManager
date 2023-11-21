@@ -1,0 +1,50 @@
+﻿@model List<Product>;
+
+@{
+    ViewData["Title"] = "ShowFilesAsync";
+}
+
+
+<div class="container mt-4">
+    <h2>File List</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Size</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var file in Model)
+            {
+                <tr>
+                    <td>@file.FileName</td>
+                    <td>@file.FileSize</td>
+                    <td>
+                        <button class="btn btn-primary" onclick="editFile('@file.FileName')">Edit</button>
+                        <button class="btn btn-danger" onclick="deleteFile('@file.FileName')">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function editFile(fileName) {
+        // Implement your edit logic here
+        console.log('Edit file:', fileName);
+    }
+
+    function deleteFile(fileName) {
+        // Implement your delete logic here
+        console.log('Delete file:', fileName);
+    }
+</script>
+
+
+
+
+

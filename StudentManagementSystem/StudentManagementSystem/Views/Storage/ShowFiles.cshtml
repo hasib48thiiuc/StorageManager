@@ -1,0 +1,93 @@
+﻿@model List<Product>;
+
+@{
+    ViewData["Title"] = "ShowFiles";
+}
+
+
+<div class="container mt-4">
+    <h2>File List</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Size</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var file in Model)
+            {
+                <tr>
+                    <td>@file.FileName</td>
+                    <td>@file.FileSize</td>
+                    <td>
+                       <button class="btn btn-primary >">Edit</button>
+                        <button class="btn btn-danger" onclick="confirmDelete('@file.UserId','@file.FileName')">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    function confirmDelete(UserId,fileName) {
+        // Show a confirmation dialog
+        if (confirm("Are you sure you want to delete ?")) {
+            // If the user confirms, call the deleteFile function
+            deleteFile(UserId, fileName);
+
+        }
+    }
+    <!-- JavaScript code -->
+
+    async function deleteFile(UserId, fileName) {
+
+            const filePathWithName = `${UserId}\\${fileName}`;
+            console.log('filePath: ' + filePathWithName);
+
+
+
+        try {
+            const response = await fetch('@Url.Action("DeleteFile", "Storage")', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(fileName)
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                if (result.success) {
+                    console.log(result.message);
+                    // Optionally, update the UI or refresh the file list after successful deletion
+                } else {
+                    console.error(result.message);
+                }
+            } else {
+                console.error('Failed to delete file');
+            }
+        } catch (error) {
+            console.error('An error occurred:', error);
+        }
+    }
+
+
+    function editFile(filePath) {
+         
+
+        
+
+        
+    }
+
+    
+</script>
+
+
+
+
+

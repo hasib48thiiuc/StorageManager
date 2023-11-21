@@ -1,0 +1,87 @@
+﻿@{
+    ViewBag.Title = "File Upload";
+}
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous">
+<style>
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .upload-container {
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        max-width: 400px;
+        width: 100%;
+        text-align: center;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin: auto;
+        margin-top: 50px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    input[type="file"] {
+        display: none;
+    }
+
+    label {
+        cursor: pointer;
+        background-color: #007bff;
+        color: #fff;
+        padding: 10px;
+        border-radius: 5px;
+        text-align: center;
+        display: block;
+    }
+
+    button {
+        background-color: #28a745;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    #filePreview {
+        color: #495057;
+        margin-top: 10px;
+        padding: 10px;
+        border: 1px solid #ced4da;
+        border-radius: 5px;
+        background-color: #fff;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
+<div class="upload-container">
+    <h2>File Upload</h2>
+
+    @using (Html.BeginForm("UploadFile", "Storage", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div class="mb-3 form-group">
+            <label for="formFile" class="form-label">Choose File</label>
+            <input class="form-control" type="file" id="formFile" name="file" accept="*" onchange="updateFileName(this)" />
+        </div>
+
+        <div id="filePreview"></div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-md btn-success">Upload</button>
+        </div>
+    }
+</div>
+
+<script>
+    function updateFileName(input) {
+        var fileName = input.files[0].name;
+        document.getElementById('filePreview').innerText = 'Selected File: ' + fileName;
+    }
+</script>
