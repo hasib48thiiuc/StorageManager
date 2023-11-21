@@ -5,8 +5,8 @@ namespace   StudentManagementSystem.Models
 {
     public class LoginModel
     {
-    
-        public string Email { get; set; }
+        [Required]
+        public string UserName { get; set; }
 
         [Required]
         [DataType(DataType.Password)]
@@ -14,9 +14,11 @@ namespace   StudentManagementSystem.Models
 
         [Display(Name = "Remember me?")]
         public bool RememberMe { get; set; }
-
-        public string? UserId { get; set; }
         public IList<AuthenticationScheme>? ExternalLogins { get; set; }
         public string? ReturnUrl { get; set; }
+
+       
+
+      
     }
 }

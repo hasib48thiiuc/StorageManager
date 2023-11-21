@@ -64,9 +64,8 @@ namespace FirstDemo.Web.Controllers
             {
                 var user = new ApplicationUser
                 {
-                    UserName = model.Email,
+                    UserName = model.UserId,
                     Email = model.Email,
-                    UserId=model.UserId,
                     FullName=model.FullName,
                     FolderPath = personDirectory
 
@@ -86,10 +85,7 @@ namespace FirstDemo.Web.Controllers
                     _logger.LogInformation("User created a new account with password.");
 
                     //await _userManager.AddToRolesAsync(user, new string[] { "Teacher" });
-                    await _userManager.AddClaimsAsync(user, new Claim[]
-                    { 
-                        new Claim("ViewCourse", "true"), new Claim("CreateCourse", "true") 
-                    });
+                  
 
                     var code = await _userManager.GenerateEmailConfirmationTokenAsync(user);
                     code = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(code));
@@ -144,42 +140,34 @@ namespace FirstDemo.Web.Controllers
 
             model.ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 
-
-            if (!ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                var user = await _userManager.FindByNameAsync(model.UserId);
-
-                if (user != null)
+                // This doesn't count login failures towards account lockout
+                // To enable password failures to trigger account lockout, set lockoutOnFailure: true
+                var result = await _signInManager.PasswordSignInAsync(model.UserName, model.Password, model.RememberMe, lockoutOnFailure: false);
+                if (result.Succeeded)
                 {
-                    var result = await _signInManager.PasswordSignInAsync(user, model.Password, model.RememberMe, lockoutOnFailure: false);
+                    var user = await _userManager.FindByNameAsync(model.UserName);
+                    var claims = (await _userManager.GetClaimsAsync(user)).ToArray();
 
-                    if (result.Succeeded)
-                    {
-                        var claims = (await _userManager.GetClaimsAsync(user)).ToArray();
-                        //var token = await _tokenService.GetJwtToken(claims);
-                        //HttpContext.Session.SetString("token", token);
-
-                        return LocalRedirect(model.ReturnUrl);
-                    }
-
-                    if (result.RequiresTwoFactor)
-                    {
-                        return RedirectToAction("LoginWith2fa", new { ReturnUrl = model.ReturnUrl, RememberMe = model.RememberMe });
-                    }
-
-                    if (result.IsLockedOut)
-                    {
-                        _logger.LogWarning("User account locked out.");
-                        return RedirectToAction("Lockout");
-                    }
-
-                    ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                    return LocalRedirect(model.ReturnUrl);
+                }
+                if (result.RequiresTwoFactor)
+                {
+                    return RedirectToAction("LoginWith2fa", new { ReturnUrl = model.ReturnUrl, RememberMe = model.RememberMe });
+                }
+                if (result.IsLockedOut)
+                {
+                    _logger.LogWarning("User account locked out.");
+                    return RedirectToAction("Lockout");
                 }
                 else
                 {
                     ModelState.AddModelError(string.Empty, "Invalid login attempt.");
+                    return View(model);
                 }
             }
+
             // If we got this far, something failed, redisplay form
             return View(model);
         }

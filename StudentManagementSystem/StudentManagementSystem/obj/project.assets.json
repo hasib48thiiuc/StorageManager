@@ -11536,11 +11536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+      "projectUniqueName": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
       "projectName": "StudentManagementSystem",
-      "projectPath": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+      "projectPath": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
       "packagesPath": "C:\\Users\\titon\\.nuget\\packages\\",
-      "outputPath": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\obj\\",
+      "outputPath": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\hand-using-laptop-touch-folder-document-management-system-online-documentation-database-process-automation-efficiently-manage-files-work-knowledge-corporate-business-technology_162459-2610.jpg\**" />
+    <Content Remove="wwwroot\hand-using-laptop-touch-folder-document-management-system-online-documentation-database-process-automation-efficiently-manage-files-work-knowledge-corporate-business-technology_162459-2610.jpg\**" />
+    <EmbeddedResource Remove="wwwroot\hand-using-laptop-touch-folder-document-management-system-online-documentation-database-process-automation-efficiently-manage-files-work-knowledge-corporate-business-technology_162459-2610.jpg\**" />
+    <None Remove="wwwroot\hand-using-laptop-touch-folder-document-management-system-online-documentation-database-process-automation-efficiently-manage-files-work-knowledge-corporate-business-technology_162459-2610.jpg\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.25" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.23" />

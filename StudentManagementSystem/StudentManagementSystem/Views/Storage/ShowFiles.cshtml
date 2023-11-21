@@ -1,9 +1,31 @@
-﻿@model List<Product>;
+﻿@model List<StudentManagementSystem.Models.Product>
 
 @{
     ViewData["Title"] = "ShowFiles";
 }
 
+<style>
+    /* Add your styles for the table here */
+    table {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+    }
+
+   
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2; /* Even row background color */
+    }
+
+    tr:hover {
+        background-color: #ddd; /* Hovered row background color */
+    }
+</style>
 
 <div class="container mt-4">
     <h2>File List</h2>
@@ -23,8 +45,9 @@
                     <td>@file.FileName</td>
                     <td>@file.FileSize</td>
                     <td>
-                       <button class="btn btn-primary >">Edit</button>
                         <button class="btn btn-danger" onclick="confirmDelete('@file.UserId','@file.FileName')">Delete</button>
+                     <a class="btn btn-success" href="@Url.Action("DownloadFile", "Storage", new { filePath = @file.FilePath, fileName = @file.FileName })">Download</a>
+
                     </td>
                 </tr>
             }
@@ -33,61 +56,46 @@
 </div>
 
 <script>
-    function confirmDelete(UserId,fileName) {
+    function confirmDelete(UserId, fileName) {
         // Show a confirmation dialog
-        if (confirm("Are you sure you want to delete ?")) {
+        if (confirm("Are you sure you want to delete?")) {
             // If the user confirms, call the deleteFile function
             deleteFile(UserId, fileName);
-
         }
     }
-    <!-- JavaScript code -->
 
-    async function deleteFile(UserId, fileName) {
+    function editFile(UserId, fileName) {
+        window.location.href = '@Url.Action("EditFile", "Storage")?userId=' + UserId + '&fileName=' + fileName;
+    }
 
+    <!--JavaScript code-- >
+
+        async function deleteFile(UserId, fileName) {
             const filePathWithName = `${UserId}\\${fileName}`;
             console.log('filePath: ' + filePathWithName);
 
+            try {
+                const response = await fetch('@Url.Action("DeleteFile", "Storage")', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(fileName)
+                });
 
-
-        try {
-            const response = await fetch('@Url.Action("DeleteFile", "Storage")', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(fileName)
-            });
-
-            if (response.ok) {
-                const result = await response.json();
-                if (result.success) {
-                    console.log(result.message);
-                    // Optionally, update the UI or refresh the file list after successful deletion
+                if (response.ok) {
+                    const result = await response.json();
+                    if (result.success) {
+                        console.log(result.message);
+                        // Optionally, update the UI or refresh the file list after successful deletion
+                    } else {
+                        console.error(result.message);
+                    }
                 } else {
-                    console.error(result.message);
+                    console.error('Failed to delete file');
                 }
-            } else {
-                console.error('Failed to delete file');
+            } catch (error) {
+                console.error('An error occurred:', error);
             }
-        } catch (error) {
-            console.error('An error occurred:', error);
         }
-    }
-
-
-    function editFile(filePath) {
-         
-
-        
-
-        
-    }
-
-    
 </script>
-
-
-
-
-

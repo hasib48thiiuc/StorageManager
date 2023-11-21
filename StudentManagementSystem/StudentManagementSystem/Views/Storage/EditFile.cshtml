@@ -1,0 +1,21 @@
+﻿@model StudentManagementSystem.Models.EditFileViewModel
+
+@{
+    ViewData["Title"] = "Edit File";
+}
+
+<div class="container mt-4">
+    <h2>Edit File: @Model.FileName</h2>
+
+    <form asp-controller="Storage" asp-action="EditFile" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="userId" value="@Model.UserId" />
+        <input type="hidden" name="fileName" value="@Model.FileName" />
+
+        <div class="form-group">
+            <label for="file">Select a new file:</label>
+            <input type="file" name="file" class="form-control" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Replace File</button>
+    </form>
+</div>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9tzzKCLLkH33aipuVDAAcPQdAgA2w4CqyDlrxmEWY00=",
+  "Hash": "fqVxTecaY5yFtkioHe8Odd0Cj+FIUShZU8VW4+dCM3U=",
   "Source": "StudentManagementSystem",
   "BasePath": "_content/StudentManagementSystem",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StudentManagementSystem\\wwwroot",
       "Source": "StudentManagementSystem",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\StudentManagementSystem.styles.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\StudentManagementSystem.styles.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "StudentManagementSystem.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\StudentManagementSystem.styles.css"
+      "OriginalItemSpec": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\StudentManagementSystem.styles.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StudentManagementSystem.bundle.scp.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StudentManagementSystem.bundle.scp.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "StudentManagementSystem.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StudentManagementSystem.bundle.scp.css"
+      "OriginalItemSpec": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StudentManagementSystem.bundle.scp.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\css\\site.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\css\\site.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\favicon.ico",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\favicon.ico",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\js\\site.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\hand-using-laptop-touch-folder-document-management-system-online-documentation-database-process-automation-efficiently-manage-files-work-knowledge-corporate-business-technology_162459-2610.jpg",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentManagementSystem",
+      "RelativePath": "hand-using-laptop-touch-folder-document-management-system-online-documentation-database-process-automation-efficiently-manage-files-work-knowledge-corporate-business-technology_162459-2610.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\hand-using-laptop-touch-folder-document-management-system-online-documentation-database-process-automation-efficiently-manage-files-work-knowledge-corporate-business-technology_162459-2610.jpg"
+    },
+    {
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\js\\site.js",
+      "SourceId": "StudentManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1088,61 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\ManagementSystem\\mdtamim@gmail.com\\293149479_443182081148643_4624439809694763332_n.jpg",
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\ManagementSystem\\ishrak999@gmail.com\\1691298770985 (1).jpg",
       "SourceId": "StudentManagementSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentManagementSystem",
+      "RelativePath": "ManagementSystem/ishrak999@gmail.com/1691298770985 (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ManagementSystem\\ishrak999@gmail.com\\1691298770985 (1).jpg"
+    },
+    {
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\ManagementSystem\\ishrak999@gmail.com\\1692354632270.pdf",
+      "SourceId": "StudentManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentManagementSystem",
+      "RelativePath": "ManagementSystem/ishrak999@gmail.com/1692354632270.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ManagementSystem\\ishrak999@gmail.com\\1692354632270.pdf"
+    },
+    {
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\ManagementSystem\\istiak999@gmail.com\\1687815640743.pdf",
+      "SourceId": "StudentManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentManagementSystem",
+      "RelativePath": "ManagementSystem/istiak999@gmail.com/1687815640743.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ManagementSystem\\istiak999@gmail.com\\1687815640743.pdf"
+    },
+    {
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\ManagementSystem\\mdtamim@gmail.com\\293149479_443182081148643_4624439809694763332_n.jpg",
+      "SourceId": "StudentManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
       "BasePath": "_content/StudentManagementSystem",
       "RelativePath": "ManagementSystem/mdtamim@gmail.com/293149479_443182081148643_4624439809694763332_n.jpg",
       "AssetKind": "All",
@@ -1086,6 +1154,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ManagementSystem\\mdtamim@gmail.com\\293149479_443182081148643_4624439809694763332_n.jpg"
+    },
+    {
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\ManagementSystem\\razzak123@gmail.com\\1689508848111.jpg",
+      "SourceId": "StudentManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentManagementSystem",
+      "RelativePath": "ManagementSystem/razzak123@gmail.com/1689508848111.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ManagementSystem\\razzak123@gmail.com\\1689508848111.jpg"
+    },
+    {
+      "Identity": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\ManagementSystem\\razzak123@gmail.com\\293149479_443182081148643_4624439809694763332_n.jpg",
+      "SourceId": "StudentManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\wwwroot\\",
+      "BasePath": "_content/StudentManagementSystem",
+      "RelativePath": "ManagementSystem/razzak123@gmail.com/293149479_443182081148643_4624439809694763332_n.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ManagementSystem\\razzak123@gmail.com\\293149479_443182081148643_4624439809694763332_n.jpg"
     },
     {
       "Identity": "C:\\Users\\titon\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.23\\staticwebassets\\V5\\css\\site.css",

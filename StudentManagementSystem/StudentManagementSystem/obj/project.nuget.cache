@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/0sIGZGAbHnUWR+ghOfGPxY9WP7KSL+q6EqHyM2VvqptzTU+9imtOzX4h5VzGedf4Hrm1uEPnjjiWZAucsy7iQ==",
+  "dgSpecHash": "N7EsSPBPkPIHTi3qt4OWQzxun2Q+teM4GOghqggvB0tYH/ins+h5m2yd6acxx9i+E1WmD1wSfwWOrwXkLRQDDQ==",
   "success": true,
-  "projectFilePath": "C:\\mentorship_works\\StockManagementSys\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+  "projectFilePath": "C:\\StorageManager\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\titon\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\titon\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
